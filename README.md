@@ -2,6 +2,13 @@ Read in: [English](#en) | [Հայերէն](#xcl)
 
 <img src="dpir.png" alt="Dpir keyboard layout" width="500"/>
 
+**ՈՒՇԱԴՐՈՒԹԻՒՆ**
+Այս գործս անաւարտ իցէ: Է տեղի բարելաւմանց, առաւել յաջող բաշխման ստեղանց, այղ սա է լաւագոյն տարբերակ զոր այսաւր ունիմք:
+Ազատ զգա առաջարկել փոփոխութիւնս թե նկատես խնդիրս:
+
+**ATTENTION**
+This is an early version. There's some room for the improvement by key rearrangement, and this is the best one we currently have. Feel free to suggest changes if you notice something being off.
+
 <div id="xcl"></div>
 
 # ԴՊԻՐ
