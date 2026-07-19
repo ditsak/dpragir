@@ -101,7 +101,7 @@ Since the number row is occupied with letters and diacritics, the numbers are ac
 
 ### Linux
 
-Վասն ներբեռնելոյ առ զվերջին tar փաթեթ, բաց այն եւ կատարիր զայս հրաման.
+Վասն ներբեռնելոյ առ զվերջին dpir_for_linux.tar.gz փաթեթ, բաց այն եւ կատարիր զայս հրաման.
 
 ```bash
 sudo ./install_dpir.sh
@@ -116,9 +116,12 @@ sudo ./install_dpir.sh
 setxkbmap -layout am -variant Dpir
 ```
 
-### Mac եւ Windows
+### Windows
 
-Առ այժմ չեն ստեղծեալ փաթեթք վասն Mac-ի եւ Windows-ի, շուտով եղիցին:
+Առ զվերջին `dpir_for_windows.zip` փաթեթ, բաց այն եւ գործարկիր զ-`setup.exe`, յետ որոյ յընտրութեան լեզուաց գտցես զ-`Armenian Dpir Layout` տարբերակն:
+
+### Mac
+Առ այժմ չէ ստեղծեալ փաթեթք վասն Mac-ի:
 
 ---
 
@@ -232,6 +235,9 @@ If you use CLI, set it via this command combined with your other options for `se
 setxkbmap -layout am -variant Dpir
 ```
 
-### Mac & Windows
+### Windows
 
-Currently we haven't made the packages for Mac and Windows, stand by.
+Get the latest `dpir_for_windows.zip` archive from the releases section, unzip it, and run the `setup.exe`, after which in the language selection section of the settings you'll find `Armenian Dpir Layout`.
+
+### Mac
+Currently we haven't made the packages for Mac due to not having one, but sometime soon this gap will be filled. Stand by
