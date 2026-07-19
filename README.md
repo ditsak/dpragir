@@ -5,9 +5,11 @@ Read in: [English](#en) | [Հայերէն](#xcl)
 **ՈՒՇԱԴՐՈՒԹԻՒՆ**
 Այս գործս անաւարտ իցէ: Է տեղի բարելաւմանց, առաւել յաջող բաշխման ստեղանց, այղ սա է լաւագոյն տարբերակ զոր այսաւր ունիմք:
 Ազատ զգա առաջարկել փոփոխութիւնս թե նկատես խնդիրս:
+*ԱՐԴԷՆ ԻՍԿ* են մտադրութիւնք տեղափոխման Տ տառի ի ձախ մասն, այղ որոշում լիցի իբրեւ աւգտատէրք յայտնեսցեն զկարծիս իւրեանց:
 
 **ATTENTION**
 This is an early version. There's some room for the improvement by key rearrangement, and this is the best one we currently have. Feel free to suggest changes if you notice something being off.
+*THERE ARE ALREADY* ideas about moving the letter Տ to the right side to make the balance a bit better, but the decision will be made when users will share their opinions based on their experience.
 
 <div id="xcl"></div>
 
